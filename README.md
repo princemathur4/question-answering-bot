@@ -29,3 +29,7 @@ questions_file: json file
   - For windows, from here: https://github.com/UB-Mannheim/tesseract/wiki, and add it to path
 - Install Ghostscript
   - For windows, from here: https://ghostscript.com/releases/gsdnld.html, and add it to path
+
+## Demo video
+https://github.com/user-attachments/assets/1115e2d8-c943-4ba3-9fbd-d81df0e4d3ec
+
