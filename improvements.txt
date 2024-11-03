@@ -1,8 +1,9 @@
-1) Improve results by adding multiple prompts into the chain
-2) Add caching layer to cache the pdf file extracted contents, the embedding mapping, etc.
-3) Add support for multiple PDF text extractors
-4) Add support for multiple LLMs
-5) Deploy and host the backend
-6) Limit usage of the application based on API limits
-7) Create a Frontend application as well
-8) Deploy and host the frontend
+1) Test on different kinds of PDFs and improve results by adding multiple prompts into the chain
+2) Decouple text extraction, embedding generation and question answering by creating separate APIs for each
+3) Add caching layer to cache the pdf file extracted contents, the embedding mapping, etc.
+4) Add support for multiple PDF text extractors
+5) Add support for multiple LLMs
+6) Deploy and host the backend
+7) Limit usage of the application based on API limits
+8) Create a Frontend application as well
+9) Deploy and host the frontend
